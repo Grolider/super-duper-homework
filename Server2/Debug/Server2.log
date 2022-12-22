@@ -1,9 +1,0 @@
-﻿  Server2.cpp
-C:\Users\User1\source\repos\Server2\Server2.cpp(390,23): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
-C:\Users\User1\source\repos\Server2\Server2.cpp(390,64): warning C4305: инициализация: усечение из "int" в "char"
-C:\Users\User1\source\repos\Server2\Server2.cpp(390,23): warning C4309: инициализация: усечение константного значения
-C:\Users\User1\source\repos\Server2\Server2.cpp(753,5): warning C4551: в вызове функции отсутствует список аргументов
-C:\Users\User1\source\repos\Server2\Server2.cpp(391,9): warning C4101: playagain: неиспользованная локальная переменная
-C:\Users\User1\source\repos\Server2\Server2.cpp(46): warning C4715: Find_Connection: значение возвращается не при всех путях выполнения
-C:\Users\User1\source\repos\Server2\Server2.cpp(361): warning C4172: возвращение адреса локальной или временной переменной : msg
-  Server2.vcxproj -> C:\Users\User1\source\repos\Server2\Debug\Server2.exe

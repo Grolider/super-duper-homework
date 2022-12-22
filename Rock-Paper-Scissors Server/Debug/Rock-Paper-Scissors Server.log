@@ -1,0 +1,8 @@
+﻿  Rock-Paper-Scissors Server.cpp
+C:\Users\User1\source\repos\Rock-Paper-Scissors Server\Rock-Paper-Scissors Server.cpp(917,5): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\User1\source\repos\Rock-Paper-Scissors Server\Rock-Paper-Scissors Server.cpp(107): warning C4715: Find_Client: значение возвращается не при всех путях выполнения
+C:\Users\User1\source\repos\Rock-Paper-Scissors Server\Rock-Paper-Scissors Server.cpp(49): warning C4715: Find_Connection: значение возвращается не при всех путях выполнения
+C:\Users\User1\source\repos\Rock-Paper-Scissors Server\Rock-Paper-Scissors Server.cpp(366): warning C4172: возвращение адреса локальной или временной переменной : msg
+C:\Users\User1\source\repos\Rock-Paper-Scissors Server\Rock-Paper-Scissors Server.cpp(195): warning C4715: Rock_Paper_Scissors::gameplay: значение возвращается не при всех путях выполнения
+C:\Users\User1\source\repos\Rock-Paper-Scissors Server\Rock-Paper-Scissors Server.cpp(317): warning C4715: Rock_Paper_Scissors::whowon: значение возвращается не при всех путях выполнения
+  Rock-Paper-Scissors Server.vcxproj -> C:\Users\User1\source\repos\Rock-Paper-Scissors Server\Debug\Rock-Paper-Scissors Server.exe

@@ -1,0 +1,4 @@
+E:\Codes(2021)\Reform2\Release\Reform.vcxproj.AssemblyReference.cache
+E:\Codes(2021)\Reform2\Release\Reform.MyForm.resources
+E:\Codes(2021)\Reform2\Release\Reform.vcxproj.GenerateResource.cache
+E:\Codes(2021)\Reform2\Release\Reform2.exe

@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Release\) содержит файлы, которые используются совместно с другим проектом (Reform.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  MyForm.cpp
+E:\Codes(2021)\Reform2\MyForm.cpp(36,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Reform.vcxproj -> E:\Codes(2021)\Reform2\Release\Reform2.exe

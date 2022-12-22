@@ -1,4 +1,0 @@
-E:\Codes(2021)\Reform\Debug\Reform.vcxproj.AssemblyReference.cache
-E:\Codes(2021)\Reform\Debug\Reform.MyForm.resources
-E:\Codes(2021)\Reform\Debug\Reform.vcxproj.GenerateResource.cache
-E:\Codes(2021)\Reform\Debug\Reform.exe
